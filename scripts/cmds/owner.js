@@ -18,17 +18,17 @@ module.exports = {
   onStart: async function ({ api, event }) {
     const ownerText = 
 `╭─ 👑 Oᴡɴᴇʀ Iɴғᴏ 👑 ─╮
-│ 👤 Nᴀᴍᴇ       : Mᴏʜᴀᴍᴍᴀᴅ Aᴋᴀsʜ
-│ 🧸 Nɪᴄᴋ       : Aᴋᴀsʜ
+│ 👤 Nᴀᴍᴇ       : MILON HASAN
+│ 🧸 Nɪᴄᴋ       : MILON
 │ 🎂 Aɢᴇ        : 18+
 │ 💘 Rᴇʟᴀᴛɪᴏɴ : Sɪɴɢʟᴇ
-│ 🎓 Pʀᴏғᴇssɪᴏɴ : Sᴛᴜᴅᴇɴᴛ
-│ 📚 Eᴅᴜᴄᴀᴛɪᴏɴ : Iɴᴛᴇʀ 2ɴᴅ Yᴇᴀʀ
-│ 🏡 Lᴏᴄᴀᴛɪᴏɴ : 𝐃𝐡𝐚𝐤𝐚 - 𝐆𝐚𝐳𝐢𝐩𝐮𝐫
+│ 🎓 Pʀᴏғᴇssɪᴏɴ : VONDAMI
+│ 📚 Eᴅᴜᴄᴀᴛɪᴏɴ : 10
+│ 🏡 Lᴏᴄᴀᴛɪᴏɴ : 𝐃𝐡𝐚𝐤𝐚 - Narayanganj 
 ├─ 🔗 Cᴏɴᴛᴀᴄᴛ ─╮
-│ 📘 Facebook  : fb.com/arakashiam
+│ 📘 Facebook  : https://www.facebook.com/share/17uGq8qVZ9/
 │ 💬 Messenger: m.me/arakashiam
-│ 📞 WhatsApp  : wa.me/01933165880
+│ 📞 WhatsApp  : wa.me/01912603370
 ╰────────────────╯`;
 
     const cacheDir = path.join(__dirname, "cache");
