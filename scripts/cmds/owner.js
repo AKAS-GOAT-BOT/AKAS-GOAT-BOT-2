@@ -22,8 +22,8 @@ module.exports = {
 │ 🧸 Nɪᴄᴋ       : MILON
 │ 🎂 Aɢᴇ        : 18+
 │ 💘 Rᴇʟᴀᴛɪᴏɴ : Sɪɴɢʟᴇ
-│ 🎓 Pʀᴏғᴇssɪᴏɴ : VONDAMI
-│ 📚 Eᴅᴜᴄᴀᴛɪᴏɴ : 10
+│ 🎓 Pʀᴏғᴇssɪᴏɴ : VONDAMI ultra pro
+│ 📚 Eᴅᴜᴄᴀᴛɪᴏɴ : 9
 │ 🏡 Lᴏᴄᴀᴛɪᴏɴ : 𝐃𝐡𝐚𝐤𝐚 - Narayanganj 
 ├─ 🔗 Cᴏɴᴛᴀᴄᴛ ─╮
 │ 📘 Facebook  : https://www.facebook.com/share/17uGq8qVZ9/
