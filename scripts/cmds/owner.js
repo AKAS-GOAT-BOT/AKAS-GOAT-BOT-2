@@ -18,17 +18,17 @@ module.exports = {
   onStart: async function ({ api, event }) {
     const ownerText = 
 `╭─ 👑 Oᴡɴᴇʀ Iɴғᴏ 👑 ─╮
-│ 👤 Nᴀᴍᴇ       : MILON HASAN
-│ 🧸 Nɪᴄᴋ       : MILON
+│ 👤 Nᴀᴍᴇ       : AKASH HASAN
+│ 🧸 Nɪᴄᴋ       : AKASH
 │ 🎂 Aɢᴇ        : 18+
 │ 💘 Rᴇʟᴀᴛɪᴏɴ : Sɪɴɢʟᴇ
 │ 🎓 Pʀᴏғᴇssɪᴏɴ : VONDAMI ultra pro
-│ 📚 Eᴅᴜᴄᴀᴛɪᴏɴ : 9
-│ 🏡 Lᴏᴄᴀᴛɪᴏɴ : 𝐃𝐡𝐚𝐤𝐚 - Narayanganj 
+│ 📚 Eᴅᴜᴄᴀᴛɪᴏɴ : New 10
+│ 🏡 Lᴏᴄᴀᴛɪᴏɴ : rongpur - Kurigram
 ├─ 🔗 Cᴏɴᴛᴀᴄᴛ ─╮
-│ 📘 Facebook  : https://www.facebook.com/share/17uGq8qVZ9/
-│ 💬 Messenger: m.me/arakashiam
-│ 📞 WhatsApp  : wa.me/01912603370
+│ 📘 Facebook  :https://www.facebook.com/AkashMohammed713 
+│ 💬 Messenger: 
+│ 📞 WhatsApp  : wa.me/01741186713
 ╰────────────────╯`;
 
     const cacheDir = path.join(__dirname, "cache");
@@ -36,7 +36,7 @@ module.exports = {
 
     if (!fs.existsSync(cacheDir)) fs.mkdirSync(cacheDir);
 
-    const imgLink = "https://i.imgur.com/FuSLmD6.jpeg";
+    const imgLink = "https://i.imgur.com/1tpS8fJ.jpeg";
 
     const send = () => {
       api.sendMessage(
